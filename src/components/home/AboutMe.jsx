@@ -1,6 +1,8 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, Profiler } from "react";
 import axios from "axios";
 import Pdf from "../../editable-stuff/resume.pdf";
+import Profile from "../../editable-stuff/Profile.jpg"
+
 import {
   aboutHeading,
   aboutDescription,
@@ -45,21 +47,21 @@ const AboutMe = () => {
     <div id="aboutme" className="jumbotron jumbotron-fluid m-0">
       <div className="container container-fluid p-5">
         <div className="row">
-          {showInsta && (
-            <div className="col-5 d-none d-lg-block align-self-center">
+            <div className="col-5 d-none d-lg-inline align-self-center">
               <img
                 className="border border-secondary rounded-circle"
-                src={instaProfilePic}
+                src={Profile}
                 alt="profilepicture"
+                width="375"
+                height="375"
               />
             </div>
-          )}
-          <div className={`col-lg-${showInsta ? "7" : "12"}`}>
+            <div className="col d-none d-lg-inline align-self-center">
             <h1 className="display-4 mb-5 text-center">{aboutHeading}</h1>
-            <p className="lead text-center">{aboutDescription}</p>
+            <p className="lead text-center">{aboutDescription}</p><br/>
             {resumeURL && (
               <p className="lead text-center">
-                <a
+                <a 
                   className="btn btn-outline-dark btn-lg"
                   href={Pdf}
                   target="_blank"

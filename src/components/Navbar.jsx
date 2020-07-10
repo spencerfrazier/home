@@ -37,22 +37,12 @@ const Navbar = (props) => {
 
       <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
         <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
-          {showBlog && (
-            <li className="nav-item">
-              <Link
-                className="nav-link lead"
-                to={process.env.PUBLIC_URL + "/blog"}
-              >
-                Blog
-              </Link>
-            </li>
-          )}
           <li className="nav-item">
             <a
               className="nav-link lead"
-              href={process.env.PUBLIC_URL + "/#projects"}
+              href={process.env.PUBLIC_URL + "/#aboutme"}
             >
-              Projects
+              <b>About</b>
             </a>
           </li>
           <li className="nav-item">
@@ -68,11 +58,21 @@ const Navbar = (props) => {
           <li className="nav-item">
             <a
               className="nav-link lead"
-              href={process.env.PUBLIC_URL + "/#aboutme"}
+              href={process.env.PUBLIC_URL + "/#projects"}
             >
-              <b>About</b>
+              <b>Projects</b>
             </a>
           </li>
+          {showBlog && (
+            <li className="nav-item">
+              <Link
+                className="nav-link lead"
+                to={process.env.PUBLIC_URL + "/blog"}
+              >
+                <b>Blog</b>
+              </Link>
+            </li>
+          )}
         </ul>
       </div>
     </nav>
