@@ -14,13 +14,19 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import { Blog } from "./components/blog/Blog";
 import BlogPost from "./components/blog/BlogPost";
+import Leadership from "./components/home/Leadership";
+import Experience from "./components/home/Experience";
+import Skills from "./components/home/Skills";
 
 const Home = () => {
   return (
     <Fragment>
       <MainBody />
       <AboutMe />
+      <Experience />
       <Project />
+      <Leadership />
+      <Skills />
     </Fragment>
   );
 };

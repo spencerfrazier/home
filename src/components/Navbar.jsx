@@ -45,7 +45,7 @@ const Navbar = (props) => {
               <b>About</b>
             </a>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <a
               className="nav-link lead"
               href={Pdf}
@@ -53,6 +53,14 @@ const Navbar = (props) => {
               rel="noreferrer noopener"
             >
               <b>Resume</b>
+            </a>
+          </li> */}
+          <li className="nav-item">
+            <a
+              className="nav-link lead"
+              href={process.env.PUBLIC_URL + "/#experience"}
+            >
+              <b>Experience</b>
             </a>
           </li>
           <li className="nav-item">
@@ -63,7 +71,23 @@ const Navbar = (props) => {
               <b>Projects</b>
             </a>
           </li>
-          {showBlog && (
+          <li className="nav-item">
+            <a
+              className="nav-link lead"
+              href={process.env.PUBLIC_URL + "/#leadership"}
+            >
+              <b>Leadership</b>
+            </a>
+          </li>
+          <li className="nav-item">
+            <a
+              className="nav-link lead"
+              href={process.env.PUBLIC_URL + "/#skills"}
+            >
+              <b>Skills</b>
+            </a>
+          </li>
+          {/* {showBlog && (
             <li className="nav-item">
               <Link
                 className="nav-link lead"
@@ -72,7 +96,7 @@ const Navbar = (props) => {
                 <b>Blog</b>
               </Link>
             </li>
-          )}
+          )} */}
         </ul>
       </div>
     </nav>
