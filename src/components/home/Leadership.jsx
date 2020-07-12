@@ -34,9 +34,7 @@ const Leadership = () => {
                       that contributed 28,664 meals to the Central Texas Food Bank and over $3,000 to the
                       SAFE Alliance in my position as the <b>Service Director of the Student Engineering Council</b>.
                       Outside of these roles, I worked to level the playing field in STEM by mentoring and teaching children
-                      of lower socioeconomic status through my role as a <b>Code Orange Mentor</b>. Making a difference in my 
-                      community and empowering others is what I love to do, and I hope to do it
-                      for the rest of my life.  
+                      of lower socioeconomic status through my role as a <b>Code Orange Mentor</b>.
                  </p>  
               </div>
               
