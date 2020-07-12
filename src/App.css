@@ -6,7 +6,7 @@
     /* #9b59b6, */
     #ff7f7f,
     #ff9b11,
-    #1ad7c0,
+    #00c97c,
     #4484ce
   );
 
@@ -66,6 +66,15 @@
   }
 }
 
+/* .captionheader {
+  top: 0;
+  bottom: auto;
+} */
+
+/* .carousel {
+  margin: auto;
+} */
+
 .socialicons {
   color: white;
   padding-left: 5px;
@@ -75,6 +84,22 @@
 }
 
 .socialiconshover {
+  color: black;
+  padding-left: 5px;
+  padding-right: 5px;
+  transition: all 0.8s;
+  margin: 4px;
+}
+
+.sociali {
+  color: #7c2dcc;
+  padding-left: 5px;
+  padding-right: 5px;
+  transition: all 0.8s;
+  margin: 4px;
+}
+
+.socialh {
   color: black;
   padding-left: 5px;
   padding-right: 5px;

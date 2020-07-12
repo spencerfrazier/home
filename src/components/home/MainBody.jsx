@@ -38,6 +38,8 @@ const MainBody = () => {
             {FirstName + " " + MiddleName + " " + LastName}
           </h1>
           <Typist className="lead"> {devDesc}</Typist>
+          {/* <br/><br/>
+          <p className="lead"> <b>Passionate about changing the world with technology.</b></p> */}
           <div className="p-5">
             {icons.map((icon) => (
               <a

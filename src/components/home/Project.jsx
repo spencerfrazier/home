@@ -34,10 +34,10 @@ const Project = () => {
   }, [handleRequest]);
 
   return (
-    <div id="projects" className="jumbotron jumbotron-fluid bg-transparent m-0">
+    <div id="projects" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'#f7f7f7'}}>
       {projectsArray.length && (
-        <div className="container container-fluid p-5">
-          <h1 className="display-4 pb-5">{projectHeading}</h1>
+        <div className="container container-fluid" >
+          <h1 className="display-4 pb-5 text-center">{projectHeading}</h1>
           <div className="row">
             {projectsArray.map((project) => (
               <ProjectCard key={project.id} id={project.id} value={project} />

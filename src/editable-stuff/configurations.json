@@ -5,7 +5,7 @@
   "FirstName": "Ana",
   "MiddleName": "",
   "LastName": "Ashrafi",
-  "devDesc": "| Engineer | Programmer | Developer | Student | Adventurer ",
+  "devDesc": "Passionate about changing the world with technology.",
   "icons": [
     {
       "id": 0,
@@ -42,7 +42,7 @@
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "anaashrafi",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 4,
+  "projectsLength": 2,
   "showNavigationbar": true,
   "showBlog": false
 }
