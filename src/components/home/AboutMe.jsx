@@ -11,7 +11,11 @@ import {
   instaUsername,
   instaQuerry,
 } from "../../editable-stuff/configurations.json";
-
+const divStyle = {
+  display: 'flex',
+  flexDirection: 'row',
+  alignItems: 'center'
+};
 const AboutMe = () => {
   const [instaProfilePic, setInstaProfilePic] = useState("");
   const [showInsta, setShowInsta] = useState(showInstaProfilePic);
@@ -46,7 +50,7 @@ const AboutMe = () => {
   return (
     <div id="aboutme" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'#f7f7f7'}}>
       <div className="container container-fluid">
-        <div className="row">
+        <div className="row" style={divStyle}>
             <div className="col-5 d-none d-lg-inline align-self-center">
               <img
                 className="border border-secondary rounded-circle"
@@ -56,7 +60,7 @@ const AboutMe = () => {
                 height="375"
               />
             </div>
-            <div className="col d-none d-lg-inline align-self-center">
+            <div className="col d-lg-inline align-self-center">
             <h1 className="display-4 mb-5 text-center">{aboutHeading}</h1>
             <p className="lead text-center">{aboutDescription}</p><br/>
             {resumeURL && (

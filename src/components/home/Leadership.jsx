@@ -23,14 +23,14 @@ const Leadership = () => {
                 </p><br/><br/> */}
                 <br/>
                 <div className="row"> 
-                <div className="col d-none d-lg-inline align-self-center">
+                <div className="col d-lg-inline align-self-center">
                   <p className="lead text-left">
-                      Throughout my college career, I've been extremely grateful to receive opportunities to lead my peers
+                      Throughout my college career, I've been extremely grateful to have opportunities to lead my peers
                       and make an impact on the Austin community. In my role as the <b>Vice President of the 
                       Student Engineering Council</b>, I cultivated a culture of 
                       inclusivity, collaboration, and ambition through leading new-member recruitment and 
                       community building events.
-                      Prior to obtaining that position, I led service intiatives
+                      Prior to that position, I led service intiatives
                       that contributed 28,664 meals to the Central Texas Food Bank and over $3,000 to the
                       SAFE Alliance in my position as the <b>Service Director of the Student Engineering Council</b>.
                       Outside of these roles, I worked to level the playing field in STEM by mentoring and teaching children

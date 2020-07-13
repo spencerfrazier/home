@@ -35,8 +35,8 @@ const App = () => (
   <BrowserRouter basename={process.env.PUBLIC_URL + "/"}>
     {showNavigationbar && <Navbar />}
     <Route path="/" exact component={Home} />
-    {showBlog && <Route path="/blog" exact component={Blog} />}
-    {showBlog && <Route path="/blog/:id" component={BlogPost} />}
+    {/* {showBlog && <Route path="/blog" exact component={Blog} />}
+    {showBlog && <Route path="/blog/:id" component={BlogPost} />} */}
     <Footer />
   </BrowserRouter>
 );

@@ -24,7 +24,7 @@ const Navbar = (props) => {
         {`<${FirstName} />`}
       </a>
       <button
-        className="navbar-toggler"
+        className="d-none navbar-toggler"
         type="button"
         data-toggle="collapse"
         data-target="#navbarTogglerDemo02"
@@ -110,5 +110,6 @@ const Navbar = (props) => {
     </nav>
   );
 };
+
 
 export default Navbar;
