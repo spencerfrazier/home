@@ -1,7 +1,5 @@
 import React, { useState, useEffect, Profiler } from "react";
 import Carousel from 'react-bootstrap/Carousel'
-import Profile from "../../editable-stuff/Profile.jpg"
-import Code from "../../editable-stuff/code-orange.jpg"
 import Service from "../../editable-stuff/service.jpg"
 import Culture from "../../editable-stuff/culture.jpg"
 import Committee from "../../editable-stuff/committee.jpg"
