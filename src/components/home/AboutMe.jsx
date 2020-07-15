@@ -2,6 +2,7 @@ import React, { useState, useEffect, Profiler } from "react";
 import axios from "axios";
 import Pdf from "../../editable-stuff/resume.pdf";
 import Profile from "../../editable-stuff/Profile.jpg"
+import {Helmet} from "react-helmet";
 
 import {
   aboutHeading,
@@ -71,7 +72,7 @@ const AboutMe = () => {
                   target="_blank"
                   rel="noreferrer noopener"
                   role="button"
-                  aria-label="Resume/CV"
+                  
                 >
                   Resume
                 </a>
