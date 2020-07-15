@@ -33,7 +33,7 @@ return (
               </div>
               <div className="col">
               <br/>
-                <p className="lead">Javascript
+                <p className="lead">JavaScript
                 <ProgressBar now={90} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
                 <p className="lead">HTML/CSS
