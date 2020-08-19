@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88cabd437895ca3423840e7a1d81658a",
+    "revision": "e9b1ba6486977306bf21b8e12e40ee4c",
     "url": "/home/index.html"
   },
   {
-    "revision": "181e74721f4bba8d38d4",
+    "revision": "2ca1c7748199651eab50",
     "url": "/home/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "ef0321eb70aba83988cc",
+    "revision": "7c505967c512543033d8",
     "url": "/home/static/css/main.6a3d9078.chunk.css"
   },
   {
-    "revision": "181e74721f4bba8d38d4",
-    "url": "/home/static/js/2.f332cc8c.chunk.js"
+    "revision": "2ca1c7748199651eab50",
+    "url": "/home/static/js/2.f85e4272.chunk.js"
   },
   {
-    "revision": "55ec88aeeb2a7b41025e8d013742c130",
-    "url": "/home/static/js/2.f332cc8c.chunk.js.LICENSE.txt"
+    "revision": "0001512ff5376eafd7f76369861b7a6e",
+    "url": "/home/static/js/2.f85e4272.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef0321eb70aba83988cc",
-    "url": "/home/static/js/main.7552e485.chunk.js"
+    "revision": "7c505967c512543033d8",
+    "url": "/home/static/js/main.51878ec0.chunk.js"
   },
   {
     "revision": "5c07ecca0456e28e04f0",
     "url": "/home/static/js/runtime-main.e084aacb.js"
+  },
+  {
+    "revision": "9a37dcac40f03b09c614af3d853938b1",
+    "url": "/home/static/media/Ana Ashrafi - Resume 2020.9a37dcac.pdf"
   },
   {
     "revision": "15cb58a8ea6eda8abc68d20fc8ee97bb",
@@ -54,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "89c83c3b4dda7fed3a30ba8aa440bc8c",
     "url": "/home/static/media/park.89c83c3b.jpg"
-  },
-  {
-    "revision": "537e5ac98517ec1decf19facf532beae",
-    "url": "/home/static/media/resume.537e5ac9.pdf"
   },
   {
     "revision": "d7e03d05cc830eda89d92c138ae9fc29",
