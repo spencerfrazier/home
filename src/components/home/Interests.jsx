@@ -1,5 +1,3 @@
-import Meditation from "../../editable-stuff/meditation.png";
-import Soccer from "../../editable-stuff/soccer.png";
 import React, { useState, useEffect, Profiler } from "react";
 import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
