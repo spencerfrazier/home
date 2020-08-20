@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f6391cb61dee375b0b4495b6be7be6c",
+    "revision": "cc75d0669b4d145909d91ebb947b0cac",
     "url": "/index.html"
   },
   {
-    "revision": "2ca1c7748199651eab50",
+    "revision": "c8f80fcd6e3390a41e7c",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "918963bda698a5499693",
+    "revision": "1f444c84e3b6d096e76b",
     "url": "/static/css/main.6a3d9078.chunk.css"
   },
   {
-    "revision": "2ca1c7748199651eab50",
-    "url": "/static/js/2.f85e4272.chunk.js"
+    "revision": "c8f80fcd6e3390a41e7c",
+    "url": "/static/js/2.8218ec9d.chunk.js"
   },
   {
     "revision": "0001512ff5376eafd7f76369861b7a6e",
-    "url": "/static/js/2.f85e4272.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.8218ec9d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "918963bda698a5499693",
-    "url": "/static/js/main.44be4478.chunk.js"
+    "revision": "1f444c84e3b6d096e76b",
+    "url": "/static/js/main.51e5dceb.chunk.js"
   },
   {
     "revision": "c88671eb88bf6c28dee9",
     "url": "/static/js/runtime-main.6a060e8a.js"
   },
   {
-    "revision": "9a37dcac40f03b09c614af3d853938b1",
-    "url": "/static/media/Ana Ashrafi - Resume 2020.9a37dcac.pdf"
+    "revision": "922f3621f4c9f247c15ebb43b981fef0",
+    "url": "/static/media/Ana Ashrafi - Resume 2020.922f3621.pdf"
   },
   {
     "revision": "15cb58a8ea6eda8abc68d20fc8ee97bb",
