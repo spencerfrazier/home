@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc75d0669b4d145909d91ebb947b0cac",
+    "revision": "981905f9d65e194840fb990bcf9a9b38",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "1f444c84e3b6d096e76b",
+    "revision": "5e63e772bcad3079d095",
     "url": "/static/css/main.6a3d9078.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.8218ec9d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f444c84e3b6d096e76b",
-    "url": "/static/js/main.51e5dceb.chunk.js"
+    "revision": "5e63e772bcad3079d095",
+    "url": "/static/js/main.db307007.chunk.js"
   },
   {
     "revision": "c88671eb88bf6c28dee9",
     "url": "/static/js/runtime-main.6a060e8a.js"
   },
   {
-    "revision": "922f3621f4c9f247c15ebb43b981fef0",
-    "url": "/static/media/Ana Ashrafi - Resume 2020.922f3621.pdf"
+    "revision": "bd08aa0f3e9e1c5c3377bb73a85bdcc5",
+    "url": "/static/media/Ana Ashrafi - Resume 2020.bd08aa0f.pdf"
   },
   {
     "revision": "15cb58a8ea6eda8abc68d20fc8ee97bb",
