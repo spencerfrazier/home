@@ -2,45 +2,45 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "gradientColors": "#E73C7E, #23A6D5, #23D5AB, #893FA6",
-  "FirstName": "Ana",
+  "FirstName": "Spencer",
   "MiddleName": "",
-  "LastName": "Ashrafi",
-  "devDesc": "Passionate about changing the world with technology.",
+  "LastName": "Frazier",
+  "devDesc": "Pursing practical methods for AI value alignment",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/anaashrafi",
+      "url": "https://github.com/spencerfrazier",
       "style": "socialicons"
     },
     {
       "id": 1,
-      "image": "fa-facebook",
-      "url": "https://www.facebook.com/anaaashrafi",
+      "image": "fa-twitter",
+      "url": "https://www.twitter.com/spencerfrazier",
       "style": "socialicons"
     },
+    // {
+    //   "id": 2,
+    //   "image": "fa-instagram",
+    //   "url": "https://www.instagram.com/ana_ashhh/",
+    //   "style": "socialicons"
+    // },
     {
       "id": 2,
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/ana_ashhh/",
-      "style": "socialicons"
-    },
-    {
-      "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/ana-ashrafi",
+      "url": "https://www.linkedin.com/in/spencer-frazier-ai",
       "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
   "showInstaProfilePic": false,
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "ana_ashhh",
+  "instaUsername": "no-insta",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "Hello! My name is Ana and I am a Software Engineer from The University of Texas at Austin. I will be graduating with my Bachelor's degree in Electrical and Computer Engineering in May of 2021. The past two summers, I interned as a Software Engineer at Boeing and Dell Technologies, and I cannot wait for my next journey. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering!",
+  "aboutDescription": "Hello! My name is Spencer Frazier. Previously I have founded a company acquired for $1b+ dollars (Drizly by Uber) and worked at Lockheed Martin on various R&D projects. I am an Intelligent Systems PhD Candidate ABD at Georgia Tech, focusing on practical AI value alignment. I work with large scale language models on a daily basis. I am passionate about steering the development of complex systems toward more ethical, equitable outcomes.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "anaashrafi",
+  "gitHubUsername": "spencerfrazier",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 2,
   "showNavigationbar": true,

@@ -5,9 +5,9 @@
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Ana Ashrafi",
-    "email": "ana.a.ashrafi@gmail.com",
-    "url": "https://github.com/anaashrafi"
+    "name": "Spencer Frazier",
+    "email": "spencer@persona.ai",
+    "url": "https://github.com/spencerfrazier"
   },
   "dependencies": {
     "@popperjs/core": "^2.1.1",
