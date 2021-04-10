@@ -21,13 +21,13 @@
     },
     {
       "id": 2,
-      "image": "fa-readme",
+      "image": "fa-linkedin",
       "url": "https://www.linkedin.com/in/spencer-frazier-ai",
       "style": "socialicons"
     },
     {
       "id": 3,
-      "image": "fa-book",
+      "image": "fa-readme",
       "url": "https://scholar.google.com/citations?user=VePWgDkAAAAJ&hl=en",
       "style": "socialicons"
     }
