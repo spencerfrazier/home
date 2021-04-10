@@ -27,8 +27,9 @@
     },
     {
       "id": 3,
-      "image": "fa-book-reader",
-      "url": "https://scholar.google.com/citations?user=VePWgDkAAAAJ&hl=en"
+      "image": "fa-book",
+      "url": "https://scholar.google.com/citations?user=VePWgDkAAAAJ&hl=en",
+      "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
@@ -37,7 +38,7 @@
   "instaUsername": "no-insta",
   "instaQuerry": "/?__a=1",
   "aboutDescription": "Hello! My name is Spencer Frazier. Previously I have founded a company acquired for $1b+ dollars (Drizly by Uber) and worked at Lockheed Martin on various R&D projects. I am currently an Intelligent Systems PhD Candidate ABD at Georgia Tech, focusing on practical AI value alignment. I work with large scale language models on a daily basis. I am passionate about steering the development of complex systems toward more ethical, equitable outcomes.",
-  "projectHeading": "Recent Projects",
+  "projectHeading": "Recent Public Commits",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "spencerfrazier",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
