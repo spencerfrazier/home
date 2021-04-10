@@ -43,11 +43,11 @@ return (
                     <br/>
                     <br/>
                     <p className="lead text-center" style={{fontSize:'22px'}}>
-                        Software Engineer Intern  
+                        Software Engineer 
                         <br/>
                         May - August 2019
                     </p>
-                    {/* <h3>Boeing</h3> */}
+                    {/* <h3>Lockheed Martin</h3> */}
                 </div>
             </div>
         </div>
