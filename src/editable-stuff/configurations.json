@@ -19,12 +19,6 @@
       "url": "https://www.twitter.com/spencerfrazier",
       "style": "socialicons"
     },
-    // {
-    //   "id": 2,
-    //   "image": "fa-instagram",
-    //   "url": "https://www.instagram.com/ana_ashhh/",
-    //   "style": "socialicons"
-    // },
     {
       "id": 2,
       "image": "fa-linkedin",
@@ -41,7 +35,7 @@
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "spencerfrazier",
-  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "gitHubQuery": "/repos?sort=updated&direction=desc",
   "projectsLength": 2,
   "showNavigationbar": true,
   "showBlog": false
