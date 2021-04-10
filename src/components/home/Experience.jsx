@@ -20,8 +20,8 @@ return (
                         // className="border border-secondary rounded-circle"
                         src={Drizly}
                         alt="drizly logo"
-                        width="420"
-                        height="70"
+                        width="180"
+                        height="100"
                     />
                     <br/>
                     <br/>
