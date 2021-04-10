@@ -5,7 +5,7 @@
   "FirstName": "Spencer",
   "MiddleName": "",
   "LastName": "Frazier",
-  "devDesc": "Pursing practical methods for AI value alignment",
+  "devDesc": "Pursuing practical methods for AI value alignment",
   "icons": [
     {
       "id": 0,
@@ -27,7 +27,7 @@
     },
     {
       "id": 3,
-      "image": "fa-book",
+      "image": "fa-book-reader",
       "url": "https://scholar.google.com/citations?user=VePWgDkAAAAJ&hl=en",
       "style": "socialicons"
     }
