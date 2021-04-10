@@ -33,9 +33,7 @@ import {
             <a href="mailto:spencer@persona.ai">{" "}
                spencer@persona.ai
             </a>{"."}
-            or directly schedule below!
-              <div class="calendly-inline-widget" data-url="https://calendly.com/spencer-persona?hide_landing_page_details=1" style="min-width:320px;height:630px;"></div>
-              <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+            
           </p>
           
             {/* {icons.map((icon) => (
