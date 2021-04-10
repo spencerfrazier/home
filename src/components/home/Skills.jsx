@@ -22,38 +22,38 @@ return (
                 <div className="row">
                 <div className="col">
                 <br/>
-                  <p className="lead">Agile/Lean Methodologies
+                  <p className="lead">PyTorch
                   <ProgressBar now={90} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
-                  <p className="lead">JavaScript
+                  <p className="lead">Python
                   <ProgressBar now={87} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
-                  <p className="lead">C#
+                  <p className="lead">JavaScript
                   <ProgressBar now={80} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
-                  <p className="lead">C/C++
+                  <p className="lead">C#/Unity
                   <ProgressBar now={70} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
-                  <p className="lead">Python
+                  <p className="lead">C/C++
                   <ProgressBar now={60} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
               </div>
               <div className="col">
               <br/>
-                <p className="lead">Java
-                <ProgressBar now={90} style={{width:'490px', backgroundColor:'white'}}/>
+                <p className="lead">Test-Driven Development
+                <ProgressBar now={60} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
                 <p className="lead">HTML/CSS
-                <ProgressBar now={85} style={{width:'490px', backgroundColor:'white'}}/>
+                <ProgressBar now={55} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
-                <p className="lead">Test-Driven Development
-                  <ProgressBar now={80} style={{width:'490px', backgroundColor:'white'}}/>
+                <p className="lead">Java
+                  <ProgressBar now={40} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
                 <p className="lead">SQL
-                <ProgressBar now={75} style={{width:'490px', backgroundColor:'white'}}/>
+                <ProgressBar now={35} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
                 <p className="lead">React
-                <ProgressBar now={50} style={{width:'490px', backgroundColor:'white'}}/>
+                <ProgressBar now={30} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
               </div>
               </div>
