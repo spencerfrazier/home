@@ -23,21 +23,12 @@ const Leadership = () => {
                 <div className="row"> 
                 <div className="col d-lg-inline align-self-center">
                   <p className="lead text-left">
-                      Throughout my college career, I've been extremely grateful to have opportunities to lead my peers
-                      and make an impact on the Austin community. In my role as the <b>Vice President of the 
-                      Student Engineering Council</b>, I cultivated a culture of 
-                      inclusivity, collaboration, and ambition through leading new-member recruitment and 
-                      community building events.
-                      Prior to that position, I led service intiatives
-                      that contributed 28,664 meals to the Central Texas Food Bank and over $3,000 to the
-                      SAFE Alliance in my position as the <b>Service Director of the Student Engineering Council</b>.
-                      Outside of these roles, I worked to level the playing field in STEM by mentoring and teaching children
-                      of lower socioeconomic status through my role as a <b>Code Orange Mentor</b>.
+                      CTO and Founder. Primary Investigator and advisor to Chief Science Officer on quantum-encryption related research project. Technical Product Manager/ Engineering Lead for DARPA simulation effort in a team of 15+. Co-lead engineer responsible for delivering in person program updates to DARPA (as a proxy for primary investigator). Advanced Technical Leadership Class of 2019. Authored veteran warfighter financial readiness machine learning proposal for ADL/DoD in collaboration with StandardsWork. Co-authored DARPA proposal award at 7-8 figure cost estimates. Lead machine learning engineer for dismounted UAV/HMD/AR research effort. Held regular coding interviews and advised on hiring decisions. Transitioned multiple internal “Destination Innovation” research proposals to patents and IRAD programs. Delivered recruitment talks at Boston-area schools (MIT) on distributed systems and human-machine trust. Agile scrum leader/TPM on multiple projects.
                  </p>  
               </div>
               
                 <div className="col d-lg-inline align-self-center">
-                
+                {/*
                 <Carousel>
                     <Carousel.Item>
                 {/* <div className="col d-none d-lg-inline align-self-center"> */}
@@ -139,7 +130,7 @@ const Leadership = () => {
                     height="450"
                   /> 
                   </Carousel.Item>
-                </Carousel>
+                </Carousel>*/}
               </div>
               </div>
             </div>
