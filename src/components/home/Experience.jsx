@@ -18,34 +18,34 @@ return (
                 <div className="col text-center" >
                     <img
                         // className="border border-secondary rounded-circle"
-                        src={Dell}
-                        alt="dell technologies logo"
+                        src={Drizly}
+                        alt="drizly logo"
                         width="420"
                         height="70"
                     />
                     <br/>
                     <br/>
                     <p className="lead text-center" style={{fontSize:'22px'}}>
-                        Software Engineer Intern  
+                        Cofounder/CTO  
                         <br/>
-                        June - July 2020
+                        June 2012 - December 2013
                     </p>
-                    {/* <h3>Dell Technologies</h3> */}
+                    {/* <h3>Drizly</h3> */}
                 </div>
                 <div className="col text-center">
                     <img
                         // className="border border-secondary rounded-circle"
-                        src={Boeing}
-                        alt="boeing logo"
+                        src={Lockheed}
+                        alt="lockheed logo"
                         width="300"
                         height="80"
                     />
                     <br/>
                     <br/>
                     <p className="lead text-center" style={{fontSize:'22px'}}>
-                        Software Engineer 
+                        Lead Software Engineer / Technical Product Manager
                         <br/>
-                        May - August 2019
+                        May 2014 - Jan 2018
                     </p>
                     {/* <h3>Lockheed Martin</h3> */}
                 </div>
