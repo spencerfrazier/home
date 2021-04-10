@@ -35,7 +35,7 @@
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "spencerfrazier",
-  "gitHubQuery": "/repos?sort=updated&direction=desc",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 2,
   "showNavigationbar": true,
   "showBlog": false
