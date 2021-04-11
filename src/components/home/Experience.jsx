@@ -1,6 +1,7 @@
 import React, { useState, useEffect, Profiler } from "react";
 import Lockheed from "../../editable-stuff/lockheed.png";
 import Drizly from "../../editable-stuff/drizly.png"
+import GT from "../../editable-stuff/gt.gif"
 const divStyle = {
     display: 'flex',
     flexDirection: 'row',
@@ -48,6 +49,23 @@ return (
                         May 2014 - Jan 2018
                     </p>
                     {/* <h3>Lockheed Martin</h3> */}
+                </div>
+                <div className="col text-center">
+                    <img
+                        // className="border border-secondary rounded-circle"
+                        src={GT}
+                        alt="gt logo"
+                        width="180"
+                        height="140"
+                    />
+                    <br/>
+                    <br/>
+                    <p className="lead text-center" style={{fontSize:'22px'}}>
+                        Intelligent Systems CS PhD Candidate ABD
+                        <br/>
+                        Jan 2018 - Present
+                    </p>
+                    {/* <h3>Georgia Tech</h3> */}
                 </div>
             </div>
         </div>
