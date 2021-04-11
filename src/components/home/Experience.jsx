@@ -2,6 +2,7 @@ import React, { useState, useEffect, Profiler } from "react";
 import Lockheed from "../../editable-stuff/lockheed.png";
 import Drizly from "../../editable-stuff/drizly.png"
 import GT from "../../editable-stuff/gt.gif"
+import ADAM from "../../editable-stuff/adam.png"
 const divStyle = {
     display: 'flex',
     flexDirection: 'row',
@@ -66,6 +67,23 @@ return (
                         Jan 2018 - Present
                     </p>
                     {/* <h3>Georgia Tech</h3> */}
+                </div>
+                <div className="col text-center">
+                    <img
+                        // className="border border-secondary rounded-circle"
+                        src={ADAM}
+                        alt="adam logo"
+                        width="250"
+                        height="90"
+                    />
+                    <br/>
+                    <br/>
+                    <p className="lead text-center" style={{fontSize:'22px'}}>
+                        Founder & CEO
+                        <br/>
+                        Feb 2022 
+                    </p>
+                    {/* <h3>Persona, Venant, Relic & Aniphon</h3> */}
                 </div>
             </div>
         </div>
